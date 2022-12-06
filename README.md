@@ -23,7 +23,7 @@
 
 特别感谢以下项目：
 
-- 感谢 Lean 大的 [Openwrt 仓库](https://github.com/coolsnowwolf/lede)
+- 感谢 ImmortalWrt 团队的 [ImmortalWrt 仓库](https://github.com/immortalwrt/immortalwrt)
 - 感谢 kenzok8 大的 [Openwrt 整合包](https://github.com/kenzok8/openwrt-packages)
 - 感谢 P3TERX 大的[云编译仓库](https://github.com/P3TERX/Actions-OpenWrt)和[中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)  
 
